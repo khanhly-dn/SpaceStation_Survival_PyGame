@@ -1,0 +1,14 @@
+{
+    "name":"Eng I",
+    "position":[10,0],
+    "show_space":false,
+    "structures":[
+        ["Door", null, -32, "Eng II"],
+        ["KeyDoor", null, -32, "Eng IV", "K. Reactor"],
+
+        ["Pickup", 40, null, "HandgunAmmunition"],
+        ["Pickup", 48, null, "ShotgunAmmunition"]
+    ],
+
+    "comments": []
+}

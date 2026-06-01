@@ -1,0 +1,16 @@
+{
+    "name":"Eng III",
+    "position":[6,0],
+    "show_space":false,
+    "structures":[
+        ["Pickup", 30, null, "Medkit"],
+        ["Pickup", 28, null, "ShotgunAmmunition"],
+        ["Pickup", 32, null, "RevolverAmmunition"],
+        ["Pickup", 36, null, "HandgunAmmunition"],
+
+        ["TextInformation", 0, -24, ["structure_32_24_ss", 0, 0], "font1_1", "Mike: \nI think if we can get to the command room, we can get the escape shuttle codes. Julia told me the code to get in is 224.", "text_screen_background"]
+    
+    ],
+
+    "comments": []
+}

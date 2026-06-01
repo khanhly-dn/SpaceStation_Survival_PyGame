@@ -1,0 +1,15 @@
+{
+    "name":"Eng II",
+    "position":[7,0],
+    "show_space":false,
+    "structures":[
+        ["Door", null, -32, "Eng III"],
+
+        ["EnemySpawn", 0, 8, "SpiderEnemy"],
+        ["EnemySpawn", 48, -32, "BasicEnemy"],
+        ["EnemySpawn", 32, -32, "RecoverEnemy"],
+        ["EnemySpawn", 16, -32, "RecoverEnemy"]
+    ],
+
+    "comments": []
+}

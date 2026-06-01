@@ -1,0 +1,14 @@
+{
+    "name":"Shuttle I",
+    "position":[4,1],
+    "show_space":true,
+    "structures":[
+        ["Door", null, -32, "Shuttle II"],
+
+        ["EnemySpawn", 80, 8, "SpiderEnemy"],
+        ["EnemySpawn", 120, 8, "SpiderEnemy"],
+        ["EnemySpawn", 140, 8, "SpiderEnemy"]
+    ],
+
+    "comments": []
+}

@@ -1,0 +1,12 @@
+{
+    "name":"Bathroom",
+    "position":[2,-1],
+    "show_space":false,
+    "structures":[
+        ["Pickup", 1, null, "HealthDrink"],
+        ["Pickup", 8, null, "HealthDrink"],
+        ["Pickup", 16, null, "Medkit"]
+    ],
+
+    "comments": []
+}

@@ -1,0 +1,16 @@
+{
+    "name":"Reception",
+    "position":[2,0],
+    "show_space":false,
+    "structures":[
+        ["KeypadDoor", null, -32, "Shuttle I", "617"],
+        ["Door", null, -32, "Hallway"],
+
+        ["GraphicsInformation", 112, 12, ["structure_32_32_ss", 0, 1], "map"],
+
+        ["Pickup", 133, null, "HealthDrink"],
+        ["EnemySpawn", 70, -32, "BasicEnemy"]
+    ],
+
+    "comments": []
+}
