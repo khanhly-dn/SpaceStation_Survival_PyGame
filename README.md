@@ -23,6 +23,8 @@
 |:---:|:---:|
 | ![Màn hình chính](https://github.com/khanhly-dn/SpaceStation_Survival_PyGame/blob/main/GD1.png?raw=true) | ![Gameplay](https://github.com/khanhly-dn/SpaceStation_Survival_PyGame/blob/main/GD2.png?raw=true) |
 
+🎬 **Video hoạt động:** *https://drive.google.com/file/d/1wxKOOGOSiya9SSZ-H3CEuEoYMuqYOGwY/view?usp=sharing*
+
 </div>
 
 ---
