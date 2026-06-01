@@ -1,0 +1,39 @@
+needs drawn:
+
+[x] spider guy
+    [x] animations
+    [x] death anim
+[x] big guy
+    [x] walk/attack animations
+    [x] death anim
+[x] regen guy
+[x] title screen
+    [x] ship
+    [x] planet
+[x] basic enemy
+    [x] animations
+    [x] death animation
+[ ] level backgrounds
+    [x] cryo
+    [x] shuttle
+    [x] reception
+    [ ] bathroom
+    [ ]
+[x] end screen(s)
+    [x] escape pod
+    [x] tentacle planet
+    [x] tentacle arm reveal
+ui widgets:
+OK  [ ] backgrounds
+    [x] control bar?
+    [x] buttons
+    [x] computer bg
+pickups:
+    [x] health drink
+OK  [ ] keys
+
+[ ] standardize colors
+    [x] in-world effects
+    [x] control panel
+[ ] level scenery
+[ ] interaction outlines
